@@ -6,10 +6,8 @@
     "version": "1.0.0",
     "minimumCoreVersion": "0.8.9",
     "compatibleCoreVersion":"0.8.9",
+    "dependencies": [],
     "scripts": [],
-    "url": "https://github.com/FreshnessDND/Kibbles-Crafting-Items.git",
-    "manifest": "",
-    "download": "",
     "packs": [
         {
           "name": "kibbles-crafting-items",
@@ -19,5 +17,7 @@
           "module": "Kibbles Crafting"
         }
       ],
-      "dependencies": []
+    "url": "https://github.com/FreshnessDND/Kibbles-Crafting-Items.git",
+    "manifest": "",
+    "download": ""
   }
