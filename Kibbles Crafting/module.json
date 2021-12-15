@@ -1,0 +1,23 @@
+{   
+    "name": "Kibbles Crafting",   
+    "title": "Kibbles Crafting Materials",   
+    "description": "Kibbles Crafting Materials",   
+    "author": "Freshness",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.8.9",
+    "compatibleCoreVersion":"0.8.9",
+    "scripts": [],
+    "url": "https://github.com/FreshnessDND/Kibbles-Crafting-Items.git",
+    "manifest": "",
+    "download": "",
+    "packs": [
+        {
+          "name": "kibbles-crafting-items",
+          "label": "kibbles-crafting-items",
+          "path": "packs/kibbles-crafting-items.db",
+          "entity": "Item",
+          "module": "Kibbles Crafting"
+        }
+      ],
+      "dependencies": []
+  }
